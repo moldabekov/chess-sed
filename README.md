@@ -24,5 +24,4 @@ To make a move you need to enter coordinates (e.g. `d2 d4`), and then press `Ent
 4. Human move correctness
 
 --
-Margulan Moldabekov
 
